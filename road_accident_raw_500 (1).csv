@@ -1,0 +1,601 @@
+Accident ID,Location (Area/Road/City),Date,Time,Age of Victim,Gender,Vehicle Type,Road Type,Speed (km/h),Accident Severity
+A001,"MG Road, Visakhapatnam",26-02-2024,07:20,42,Male,Scooter,Junction,41,Fatal
+A002,"Anna Nagar, Mumbai",16-11-2024,18:46,49,,Car,Highway,45,Minor
+A003,"MG Road, Hyderabad",24-07-2024,20:32,36,Female,Bicycle,Junction,27,Serious
+A004,"Park Street, Chennai",08-12-2024,21:12,42,Female,Auto Rickshaw,Highway,57,Minor
+A005,"MG Road, Hyderabad",12-09-2024,,60,Female,Bicycle,Junction,41,Serious
+A006,"Outer Ring Road, Hyderabad",20-06-2024,16:09,29,Male,,City Road,69,Minor
+,"MG Road, Jaipur",24-10-2024,20:07,28,Male,Bus,Junction,83,Fatal
+A008,"Anna Nagar, Chennai",17-09-2024,17:21,44,Male,Car,City Road,27,Minor
+A009,,17-03-2024,14:34,19,Female,Car,Junction,116,Minor
+A010,"NH-44, Visakhapatnam",06-11-2024,08:07,68,Male,Auto Rickshaw,City Road,27,Serious
+A011,"FC Road, Pune",27-01-2024,,57,Male,Motorcycle,Junction,71,Fatal
+A012,"NH-44, Hyderabad",24-04-2024,18:50,48,,Auto Rickshaw,Junction,34,Serious
+A013,,08-06-2024,18:03,34,Female,Truck,Highway,28,Minor
+A014,"Marine Drive, Kolkata",06-10-2024,05:47,66,Female,Auto Rickshaw,Highway,22,null
+,"Anna Nagar, Ahmedabad",08-04-2024,20:21,50,Male,Motorcycle,City Road,34,Serious
+A016,"NH-48, Mumbai",01-01-2024,19:49,70,Female,Truck,null,22,Fatal
+A017,null,27-06-2024,00:06,60,Male,Truck,Junction,51,Serious
+A018,"Outer Ring Road, Kolkata",13-05-2024,01:49,51,,Motorcycle,City Road,104,Minor
+,"Outer Ring Road, Visakhapatnam",27-01-2024,21:14,75,Female,Motorcycle,Highway,20,Minor
+A020,"Marine Drive, Delhi",null,03:35,55,Female,Motorcycle,Highway,114,Minor
+A021,"Anna Nagar, Jaipur",26-01-2024,02:01,64,Female,Car,Junction,94,Minor
+A022,"Outer Ring Road, Jaipur",19-08-2024,14:08,22,Male,Scooter,Junction,61,Serious
+A023,"Jubilee Hills, Mumbai",18-05-2024,19:20,72,Female,Truck,Highway,92,Fatal
+A024,"NH-44, Kolkata",26-01-2024,10:00,18,Female,Bus,Highway,98,Minor
+A025,"NH-44, Pune",27-11-2024,14:32,66,Female,Bicycle,City Road,57,Serious
+A026,"Jubilee Hills, Visakhapatnam",16-02-2024,01:43,42,Male,Car,City Road,108,Serious
+A027,"NH-48, Pune",30-06-2024,05:41,32,Male,Bus,Highway,82,Serious
+A028,"Park Street, Hyderabad",22-02-2024,20:22,28,Male,Truck,Junction,67,Serious
+A029,"Jubilee Hills, Ahmedabad",06-09-2024,17:34,60,Female,Scooter,Highway,101,Fatal
+A030,"NH-44, Bengaluru",17-10-2024,09:26,64,Male,Bus,Junction,119,Serious
+A031,"Marine Drive, Mumbai",30-08-2024,12:46,47,Male,Bicycle,Junction,80,Fatal
+A032,"Marine Drive, Mumbai",02-07-2024,07:53,16,Male,Bus,City Road,76,Fatal
+A033,"Jubilee Hills, Visakhapatnam",05-03-2024,22:28,62,Female,Bicycle,Highway,98,Serious
+A034,"Marine Drive, Visakhapatnam",07-05-2024,13:07,19,Male,Auto Rickshaw,City Road,98,Serious
+A035,"NH-44, Jaipur",27-06-2024,22:33,64,Female,Bus,Highway,32,Serious
+A036,"Jubilee Hills, Hyderabad",05-05-2024,00:50,57,Female,Truck,Junction,72,Minor
+A037,"Banjara Hills, Mumbai",22-06-2024,08:40,71,Female,Motorcycle,Junction,100,Serious
+A038,"Anna Nagar, Bengaluru",01-08-2024,21:38,68,Male,Bus,City Road,54,Fatal
+A039,"Anna Nagar, Bengaluru",02-04-2024,06:47,19,Male,Truck,Junction,110,Serious
+A040,"FC Road, Mumbai",10-05-2024,02:54,48,Female,Motorcycle,Highway,72,Serious
+A041,"Outer Ring Road, Jaipur",10-10-2024,14:46,17,Male,Bus,Junction,56,Serious
+A042,"NH-48, Pune",07-10-2024,07:50,72,Female,Bus,City Road,41,Fatal
+A043,"Park Street, Delhi",31-05-2024,05:59,42,Female,Motorcycle,Highway,115,Minor
+A044,"MG Road, Pune",29-07-2024,00:13,33,Female,Car,Highway,61,Minor
+A045,"Anna Nagar, Hyderabad",08-05-2024,00:03,62,Female,Auto Rickshaw,Highway,75,Minor
+A046,"Jubilee Hills, Ahmedabad",24-10-2024,00:55,27,Male,Truck,City Road,105,Fatal
+A047,"Marine Drive, Delhi",20-11-2024,20:15,44,Male,Bicycle,City Road,42,Fatal
+A048,"NH-44, Jaipur",22-11-2024,08:27,36,Male,Bicycle,City Road,40,Minor
+A049,"Marine Drive, Bengaluru",25-01-2024,07:53,58,Female,Bus,City Road,92,Minor
+A050,"Anna Nagar, Visakhapatnam",18-07-2024,20:08,25,Male,Truck,Junction,105,Minor
+A051,"Park Street, Bengaluru",30-09-2024,22:13,69,Female,Bicycle,City Road,42,Serious
+A052,"NH-48, Kolkata",08-02-2024,10:28,57,Male,Auto Rickshaw,Highway,113,Serious
+A053,"NH-48, Hyderabad",02-12-2024,10:20,70,Female,Bus,Highway,49,Minor
+A054,"Anna Nagar, Ahmedabad",07-08-2024,14:08,22,Male,Scooter,City Road,56,Minor
+A055,"NH-44, Mumbai",20-12-2024,07:14,29,Male,Bus,Junction,88,Minor
+A056,"NH-44, Bengaluru",18-06-2024,13:29,20,Male,Car,Junction,112,Minor
+A057,"FC Road, Delhi",14-11-2024,19:18,55,Female,Bus,City Road,44,Serious
+A058,"FC Road, Mumbai",14-06-2024,11:20,50,Male,Bicycle,City Road,82,Fatal
+A059,"Jubilee Hills, Ahmedabad",18-06-2024,10:26,34,Female,Bicycle,City Road,104,Fatal
+A060,"Banjara Hills, Chennai",03-06-2024,11:17,53,Female,Auto Rickshaw,City Road,53,Serious
+A061,"Jubilee Hills, Ahmedabad",28-06-2024,13:02,64,Male,Car,Junction,68,Fatal
+A062,"FC Road, Bengaluru",20-03-2024,20:13,27,Female,Auto Rickshaw,Junction,67,Fatal
+A063,"Outer Ring Road, Chennai",09-10-2024,00:43,73,Female,Bus,Highway,67,Serious
+A064,"NH-48, Bengaluru",15-06-2024,05:41,65,Male,Auto Rickshaw,Junction,101,Serious
+A065,"NH-48, Jaipur",22-11-2024,01:37,33,Female,Bus,City Road,63,Fatal
+A066,"Jubilee Hills, Delhi",21-06-2024,06:41,34,Female,Bicycle,Junction,95,Serious
+A067,"Park Street, Chennai",02-12-2024,15:02,16,Female,Car,Junction,110,Minor
+A068,"Park Street, Pune",12-02-2024,09:28,64,Male,Bus,Junction,47,Serious
+A069,"Banjara Hills, Kolkata",07-01-2024,00:26,41,Male,Scooter,City Road,101,Serious
+A070,"Park Street, Chennai",19-10-2024,01:22,71,Male,Scooter,City Road,21,Serious
+A071,"FC Road, Jaipur",08-10-2024,17:38,45,Male,Scooter,Highway,44,Fatal
+A072,"Anna Nagar, Visakhapatnam",23-05-2024,18:18,38,Female,Truck,City Road,105,Minor
+A073,"Marine Drive, Visakhapatnam",09-06-2024,13:42,75,Female,Auto Rickshaw,Highway,113,Serious
+A074,"Park Street, Bengaluru",14-12-2024,06:30,64,Male,Bicycle,Highway,55,Minor
+A075,"Jubilee Hills, Visakhapatnam",19-04-2024,11:23,62,Female,Bus,City Road,117,Serious
+A076,"MG Road, Kolkata",26-02-2024,12:01,42,Female,Bicycle,Highway,63,Serious
+A077,"NH-44, Pune",07-08-2024,22:19,52,Female,Bicycle,Junction,21,Serious
+A078,"MG Road, Kolkata",28-04-2024,16:35,37,Male,Truck,Junction,108,Fatal
+A079,"Outer Ring Road, Visakhapatnam",09-03-2024,22:42,40,Female,Car,City Road,86,Serious
+A080,"Marine Drive, Jaipur",10-09-2024,02:45,70,Female,Car,Highway,62,Fatal
+A081,"Jubilee Hills, Hyderabad",18-05-2024,06:22,50,Female,Motorcycle,Junction,28,Minor
+A082,"Jubilee Hills, Visakhapatnam",30-04-2024,14:35,18,Male,Bicycle,Highway,108,Serious
+A083,"NH-48, Hyderabad",18-04-2024,04:57,32,Female,Auto Rickshaw,City Road,81,Fatal
+A084,"Anna Nagar, Mumbai",04-09-2024,13:25,37,Female,Car,City Road,93,Fatal
+A085,"Marine Drive, Ahmedabad",26-08-2024,22:46,44,Male,Motorcycle,Junction,55,Minor
+A086,"NH-44, Bengaluru",29-09-2024,07:28,31,Male,Bicycle,Junction,86,Fatal
+A087,"Park Street, Jaipur",22-03-2024,19:49,19,Male,Bicycle,Highway,64,Fatal
+A088,"MG Road, Ahmedabad",24-09-2024,00:26,26,Female,Auto Rickshaw,Junction,46,Minor
+A089,"Jubilee Hills, Hyderabad",09-06-2024,05:36,55,Female,Car,Highway,83,Serious
+A090,"Park Street, Hyderabad",14-04-2024,16:00,35,Male,Motorcycle,City Road,80,Minor
+A091,"FC Road, Visakhapatnam",09-01-2024,01:42,21,Male,Car,Highway,33,Serious
+A092,"FC Road, Chennai",21-08-2024,14:34,45,Female,Car,Junction,78,Minor
+A093,"Anna Nagar, Visakhapatnam",29-10-2024,17:49,24,Female,Car,Junction,80,Fatal
+A094,"Jubilee Hills, Delhi",13-12-2024,22:44,30,Male,Car,Highway,93,Serious
+A095,"NH-44, Ahmedabad",04-04-2024,12:47,19,Male,Motorcycle,City Road,83,Fatal
+A096,"NH-48, Delhi",20-04-2024,13:35,62,Male,Auto Rickshaw,Junction,57,Serious
+A097,"Anna Nagar, Visakhapatnam",14-12-2024,07:37,70,Female,Bus,Junction,86,Serious
+A098,"NH-48, Bengaluru",27-11-2024,09:30,47,Female,Car,City Road,99,Serious
+A099,"Park Street, Bengaluru",06-02-2024,08:49,39,Female,Motorcycle,Highway,88,Minor
+A100,"Jubilee Hills, Chennai",17-06-2024,17:37,48,Female,Bicycle,City Road,81,Serious
+A101,"Outer Ring Road, Chennai",24-07-2024,22:16,36,Female,Car,Junction,35,Minor
+A102,"MG Road, Ahmedabad",12-02-2024,06:00,18,Male,Bicycle,Junction,69,Serious
+A103,"NH-48, Bengaluru",17-03-2024,04:38,48,Female,Motorcycle,City Road,44,Fatal
+A104,"Outer Ring Road, Chennai",16-07-2024,20:00,65,Male,Truck,Junction,80,Minor
+A105,"Marine Drive, Pune",15-05-2024,23:29,16,Male,Bus,Junction,58,Serious
+A106,"Banjara Hills, Kolkata",18-08-2024,09:37,23,Female,Car,City Road,74,Serious
+A107,"Anna Nagar, Hyderabad",14-01-2024,14:59,16,Male,Auto Rickshaw,Junction,105,Serious
+A108,"NH-48, Jaipur",18-06-2024,18:58,41,Female,Scooter,Highway,27,Fatal
+A109,"Outer Ring Road, Kolkata",09-03-2024,04:25,50,Female,Bicycle,Highway,91,Fatal
+A110,"MG Road, Mumbai",16-04-2024,17:26,72,Male,Truck,City Road,102,Minor
+A111,"MG Road, Jaipur",08-06-2024,06:48,25,Female,Motorcycle,Junction,94,Fatal
+A112,"Banjara Hills, Bengaluru",23-04-2024,18:08,19,Female,Truck,Highway,47,Minor
+A113,"Park Street, Kolkata",13-01-2024,01:31,17,Male,Auto Rickshaw,Junction,100,Fatal
+A114,"Outer Ring Road, Hyderabad",11-11-2024,10:00,49,Female,Bus,Junction,83,Serious
+A115,"Outer Ring Road, Chennai",27-08-2024,11:19,46,Female,Truck,City Road,23,Minor
+A116,"NH-44, Bengaluru",03-08-2024,23:06,34,Male,Scooter,Highway,106,Fatal
+A117,"Marine Drive, Chennai",05-11-2024,10:29,29,Male,Bicycle,Junction,102,Fatal
+A118,"FC Road, Visakhapatnam",08-06-2024,17:57,49,Female,Car,Highway,47,Fatal
+A119,"Marine Drive, Pune",15-01-2024,11:26,67,Female,Car,Junction,27,Serious
+A120,"Banjara Hills, Pune",23-05-2024,07:13,46,Female,Auto Rickshaw,Junction,55,Serious
+A121,"Banjara Hills, Ahmedabad",07-06-2024,12:52,32,Male,Truck,City Road,86,Serious
+A122,"FC Road, Chennai",27-05-2024,05:32,25,Male,Car,Junction,37,Fatal
+A123,"Banjara Hills, Hyderabad",22-05-2024,21:16,30,Female,Truck,Junction,67,Serious
+A124,"Park Street, Mumbai",05-07-2024,15:13,50,Male,Car,Highway,44,Minor
+A125,"NH-44, Mumbai",31-03-2024,09:09,52,Male,Bicycle,Junction,61,Serious
+A126,"Marine Drive, Ahmedabad",11-05-2024,10:03,32,Male,Motorcycle,City Road,55,Minor
+A127,"Jubilee Hills, Delhi",03-06-2024,11:16,55,Male,Motorcycle,Junction,115,Fatal
+A128,"NH-48, Chennai",27-12-2024,21:51,31,Male,Bus,City Road,105,Fatal
+A129,"NH-44, Ahmedabad",13-03-2024,05:50,25,Male,Auto Rickshaw,Junction,86,Minor
+A130,"MG Road, Mumbai",23-10-2024,07:16,43,Female,Bicycle,City Road,72,Serious
+A131,"Park Street, Ahmedabad",10-09-2024,08:36,24,Female,Auto Rickshaw,Junction,68,Fatal
+A132,"MG Road, Chennai",29-05-2024,19:23,39,Male,Scooter,Highway,67,Fatal
+A133,"MG Road, Visakhapatnam",16-08-2024,19:26,20,Female,Bicycle,Junction,49,Minor
+A134,"MG Road, Chennai",05-08-2024,21:46,51,Male,Motorcycle,Junction,87,Fatal
+A135,"Marine Drive, Delhi",30-08-2024,04:00,50,Female,Scooter,Junction,62,Minor
+A136,"Jubilee Hills, Chennai",14-01-2024,13:27,38,Male,Bicycle,Junction,46,Minor
+A137,"Park Street, Bengaluru",18-02-2024,00:14,19,Female,Scooter,Highway,77,Fatal
+A138,"Outer Ring Road, Hyderabad",23-09-2024,12:49,25,Male,Motorcycle,Junction,120,Fatal
+A139,"Marine Drive, Ahmedabad",26-06-2024,14:56,35,Female,Scooter,Junction,53,Serious
+A140,"FC Road, Chennai",21-03-2024,20:38,29,Male,Motorcycle,Highway,26,Serious
+A141,"NH-48, Bengaluru",20-09-2024,01:09,69,Female,Bus,Highway,84,Minor
+A142,"FC Road, Chennai",11-08-2024,16:18,73,Female,Motorcycle,Highway,59,Fatal
+A143,"Banjara Hills, Mumbai",15-12-2024,05:51,37,Female,Truck,Junction,70,Minor
+A144,"MG Road, Jaipur",09-10-2024,17:38,46,Female,Auto Rickshaw,Highway,59,Fatal
+A145,"NH-44, Visakhapatnam",08-12-2024,19:29,73,Male,Motorcycle,City Road,50,Serious
+A146,"FC Road, Hyderabad",06-05-2024,00:37,23,Female,Motorcycle,City Road,83,Fatal
+A147,"NH-48, Pune",13-12-2024,15:40,72,Male,Car,Junction,22,Serious
+A148,"Jubilee Hills, Hyderabad",15-10-2024,08:21,73,Male,Bicycle,Highway,20,Fatal
+A149,"MG Road, Bengaluru",28-01-2024,14:18,33,Male,Bicycle,Highway,105,Serious
+A150,"Park Street, Visakhapatnam",30-03-2024,01:30,50,Male,Motorcycle,Junction,23,Serious
+A151,"NH-48, Ahmedabad",27-03-2024,03:36,70,Male,Truck,City Road,82,Serious
+A152,"NH-48, Mumbai",09-09-2024,19:11,17,Male,Car,Highway,117,Minor
+A153,"MG Road, Chennai",28-07-2024,04:50,19,Male,Bus,City Road,46,Serious
+A154,"NH-44, Visakhapatnam",08-11-2024,17:51,49,Female,Bus,Junction,111,Fatal
+A155,"Park Street, Kolkata",15-10-2024,17:59,17,Male,Motorcycle,Junction,74,Serious
+A156,"Anna Nagar, Visakhapatnam",10-05-2024,04:32,28,Male,Bicycle,Highway,48,Minor
+A157,"Jubilee Hills, Delhi",09-12-2024,15:51,18,Female,Auto Rickshaw,City Road,116,Serious
+A158,"Outer Ring Road, Delhi",12-03-2024,00:12,62,Female,Bus,Highway,30,Minor
+A159,"Banjara Hills, Bengaluru",21-04-2024,06:39,21,Male,Motorcycle,City Road,25,Fatal
+A160,"Banjara Hills, Mumbai",02-10-2024,15:02,29,Female,Auto Rickshaw,Junction,45,Fatal
+A161,"NH-48, Ahmedabad",23-08-2024,10:58,36,Male,Auto Rickshaw,Highway,39,Minor
+A162,"Anna Nagar, Visakhapatnam",26-03-2024,11:26,60,Male,Bus,City Road,108,Serious
+A163,"Banjara Hills, Hyderabad",08-09-2024,12:56,23,Female,Bicycle,Junction,98,Fatal
+A164,"Jubilee Hills, Kolkata",01-09-2024,20:07,45,Female,Motorcycle,Junction,36,Serious
+A165,"NH-48, Jaipur",13-09-2024,09:06,42,Female,Scooter,Highway,55,Minor
+A166,"FC Road, Kolkata",18-11-2024,02:23,52,Female,Motorcycle,Junction,47,Fatal
+A167,"MG Road, Visakhapatnam",24-08-2024,12:19,70,Female,Car,Junction,64,Serious
+A168,"Outer Ring Road, Ahmedabad",07-09-2024,20:50,25,Female,Truck,City Road,47,Minor
+A169,"Outer Ring Road, Chennai",13-07-2024,00:37,49,Female,Bus,City Road,115,Serious
+A170,"Banjara Hills, Hyderabad",28-03-2024,15:00,55,Male,Scooter,Highway,66,Minor
+A171,"Marine Drive, Mumbai",22-04-2024,19:13,48,Female,Car,Junction,101,Minor
+A172,"NH-48, Visakhapatnam",26-10-2024,05:58,51,Male,Motorcycle,Junction,55,Serious
+A173,"NH-48, Ahmedabad",17-12-2024,08:10,24,Male,Bus,Junction,34,Fatal
+A174,"FC Road, Delhi",30-05-2024,09:15,75,Female,Motorcycle,City Road,64,Serious
+A175,"Outer Ring Road, Pune",31-08-2024,09:46,51,Female,Motorcycle,Junction,22,Fatal
+A176,"MG Road, Jaipur",07-05-2024,10:45,23,Female,Bicycle,City Road,52,Minor
+A177,"NH-48, Pune",26-04-2024,01:25,36,Female,Motorcycle,Highway,73,Fatal
+A178,"Marine Drive, Jaipur",13-01-2024,13:17,66,Female,Bicycle,City Road,53,Serious
+A179,"Banjara Hills, Visakhapatnam",11-12-2024,12:39,19,Male,Car,Highway,37,Minor
+A180,"Park Street, Kolkata",17-03-2024,11:26,31,Female,Truck,Highway,112,Minor
+A181,"MG Road, Kolkata",10-01-2024,10:26,26,Male,Bicycle,Junction,114,Fatal
+A182,"Outer Ring Road, Jaipur",29-07-2024,05:09,25,Female,Bus,City Road,118,Serious
+A183,"Outer Ring Road, Pune",03-11-2024,19:57,55,Female,Motorcycle,Highway,40,Serious
+A184,"Outer Ring Road, Kolkata",06-04-2024,13:18,42,Male,Scooter,Highway,118,Serious
+A185,"Anna Nagar, Delhi",18-04-2024,18:21,18,Female,Motorcycle,Highway,58,Serious
+A186,"Banjara Hills, Pune",19-06-2024,13:01,41,Female,Truck,Junction,32,Minor
+A187,"NH-48, Visakhapatnam",09-10-2024,04:02,38,Male,Truck,City Road,58,Serious
+A188,"NH-44, Kolkata",15-03-2024,03:22,34,Male,Motorcycle,Junction,22,Minor
+A189,"Outer Ring Road, Hyderabad",08-01-2024,07:59,35,Female,Motorcycle,Junction,66,Fatal
+A190,"NH-48, Delhi",17-02-2024,18:54,42,Male,Car,Junction,48,Serious
+A191,"NH-44, Delhi",16-01-2024,19:52,44,Male,Bicycle,Highway,97,Serious
+A192,"Jubilee Hills, Jaipur",04-01-2024,04:22,44,Male,Truck,City Road,41,Fatal
+A193,"Outer Ring Road, Chennai",25-12-2024,01:57,50,Male,Bicycle,City Road,108,Minor
+A194,"Marine Drive, Mumbai",04-09-2024,10:05,18,Female,Truck,Junction,114,Fatal
+A195,"Anna Nagar, Jaipur",06-08-2024,16:59,58,Male,Auto Rickshaw,Highway,74,Serious
+A196,"Park Street, Pune",19-03-2024,16:03,23,Female,Auto Rickshaw,Junction,39,Serious
+A197,"Anna Nagar, Pune",24-01-2024,22:52,18,Male,Bus,Junction,120,Minor
+A198,"MG Road, Visakhapatnam",10-01-2024,11:32,56,Female,Bicycle,Highway,35,Fatal
+A199,"Park Street, Ahmedabad",06-01-2024,04:22,68,Female,Bus,City Road,118,Minor
+A200,"NH-44, Chennai",20-02-2024,09:55,58,Male,Scooter,Junction,106,Serious
+A201,"Marine Drive, Hyderabad",20-06-2024,23:40,56,Male,Car,Junction,38,Fatal
+A202,"Banjara Hills, Visakhapatnam",18-06-2024,07:48,54,Female,Car,Junction,59,Serious
+A203,"Anna Nagar, Kolkata",22-12-2024,21:21,68,Female,Auto Rickshaw,Junction,117,Serious
+A204,"Banjara Hills, Kolkata",09-05-2024,11:30,53,Female,Scooter,Highway,114,Fatal
+A205,"NH-44, Hyderabad",30-07-2024,04:39,18,Male,Bicycle,Highway,99,Fatal
+A206,"FC Road, Mumbai",04-07-2024,17:47,22,Female,Bicycle,Highway,29,Serious
+A207,"Jubilee Hills, Bengaluru",14-11-2024,06:47,59,Male,Auto Rickshaw,City Road,38,Fatal
+A208,"FC Road, Chennai",25-08-2024,03:23,29,Male,Truck,Junction,88,Serious
+A209,"NH-44, Mumbai",04-11-2024,08:16,27,Male,Car,City Road,26,Minor
+A210,"Banjara Hills, Visakhapatnam",11-06-2024,11:00,25,Male,Car,City Road,72,Fatal
+A211,"FC Road, Kolkata",13-12-2024,04:22,69,Female,Scooter,City Road,74,Fatal
+A212,"Park Street, Ahmedabad",17-05-2024,12:52,24,Female,Auto Rickshaw,City Road,107,Fatal
+A213,"Marine Drive, Bengaluru",11-08-2024,11:01,46,Male,Scooter,City Road,84,Fatal
+A214,"NH-48, Hyderabad",18-01-2024,11:38,22,Female,Truck,Highway,84,Minor
+A215,"NH-44, Visakhapatnam",23-06-2024,09:43,23,Male,Bicycle,Junction,90,Serious
+A216,"Park Street, Pune",15-10-2024,09:05,68,Female,Car,Junction,103,Minor
+A217,"FC Road, Pune",11-03-2024,04:31,60,Male,Auto Rickshaw,City Road,46,Fatal
+A218,"Marine Drive, Ahmedabad",18-12-2024,18:32,64,Male,Scooter,Junction,50,Minor
+A219,"Jubilee Hills, Delhi",12-11-2024,15:33,45,Female,Motorcycle,City Road,41,Serious
+A220,"NH-48, Visakhapatnam",15-02-2024,09:35,55,Male,Bicycle,Highway,80,Serious
+A221,"Jubilee Hills, Delhi",13-12-2024,13:06,32,Male,Motorcycle,Highway,44,Minor
+A222,"Park Street, Hyderabad",19-05-2024,19:44,26,Male,Auto Rickshaw,City Road,88,Serious
+A223,"Jubilee Hills, Chennai",02-04-2024,22:02,24,Male,Bicycle,City Road,23,Serious
+A224,"Park Street, Ahmedabad",03-09-2024,06:40,33,Male,Truck,Junction,52,Serious
+A225,"FC Road, Chennai",16-02-2024,14:33,66,Female,Car,City Road,60,Minor
+A226,"Anna Nagar, Kolkata",05-08-2024,17:42,66,Male,Truck,Junction,31,Fatal
+A227,"Outer Ring Road, Pune",19-09-2024,13:02,47,Female,Bicycle,City Road,55,Fatal
+A228,"NH-44, Ahmedabad",05-05-2024,10:43,67,Female,Bus,Junction,102,Fatal
+A229,"Outer Ring Road, Ahmedabad",31-05-2024,01:40,72,Male,Auto Rickshaw,Highway,48,Serious
+A230,"Banjara Hills, Hyderabad",08-07-2024,07:54,54,Male,Truck,Highway,48,Fatal
+A231,"FC Road, Visakhapatnam",24-08-2024,00:32,20,Male,Truck,City Road,114,Serious
+A232,"NH-44, Pune",12-06-2024,21:54,68,Female,Car,Junction,116,Fatal
+A233,"MG Road, Visakhapatnam",17-08-2024,03:00,32,Male,Car,City Road,63,Fatal
+A234,"Park Street, Chennai",17-04-2024,12:24,40,Male,Bus,City Road,89,Fatal
+A235,"Outer Ring Road, Mumbai",08-04-2024,01:14,38,Female,Bicycle,Junction,90,Fatal
+A236,"Park Street, Pune",14-04-2024,18:41,68,Female,Truck,Junction,30,Serious
+A237,"NH-44, Chennai",10-01-2024,21:23,29,Female,Truck,Highway,21,Minor
+A238,"Marine Drive, Jaipur",26-04-2024,11:33,34,Female,Bus,Highway,45,Fatal
+A239,"Marine Drive, Chennai",30-10-2024,08:40,72,Female,Auto Rickshaw,Highway,90,Serious
+A240,"Jubilee Hills, Visakhapatnam",08-05-2024,22:13,33,Female,Auto Rickshaw,Highway,63,Minor
+A241,"Outer Ring Road, Visakhapatnam",05-08-2024,20:06,27,Male,Bicycle,Junction,59,Serious
+A242,"MG Road, Visakhapatnam",16-04-2024,11:14,16,Female,Bicycle,Junction,68,Fatal
+A243,"Banjara Hills, Kolkata",29-06-2024,11:46,18,Male,Truck,Junction,25,Serious
+A244,"Banjara Hills, Jaipur",21-07-2024,23:32,60,Male,Bus,Highway,34,Fatal
+A245,"Jubilee Hills, Chennai",20-04-2024,23:17,55,Male,Bus,City Road,79,Fatal
+A246,"Banjara Hills, Ahmedabad",22-11-2024,23:43,37,Male,Truck,City Road,44,Fatal
+A247,"Marine Drive, Kolkata",20-02-2024,07:27,55,Male,Truck,Junction,38,Serious
+A248,"Marine Drive, Visakhapatnam",16-04-2024,02:08,65,Female,Truck,Junction,100,Serious
+A249,"Marine Drive, Jaipur",28-11-2024,15:20,67,Female,Car,Junction,57,Fatal
+A250,"NH-48, Mumbai",27-09-2024,21:02,66,Female,Truck,Highway,84,Minor
+A251,"Anna Nagar, Jaipur",01-01-2024,23:57,28,Male,Scooter,Junction,36,Minor
+A252,"Park Street, Jaipur",07-09-2024,17:43,46,Male,Truck,Highway,30,Minor
+A253,"FC Road, Bengaluru",07-08-2024,06:21,63,Female,Bus,Highway,38,Serious
+A254,"Park Street, Hyderabad",10-02-2024,07:32,29,Female,Motorcycle,Highway,59,Fatal
+A255,"MG Road, Delhi",02-11-2024,12:08,22,Male,Bus,Highway,87,Serious
+A256,"Marine Drive, Delhi",06-02-2024,17:30,34,Female,Bus,City Road,30,Minor
+A257,"NH-44, Chennai",06-11-2024,08:47,45,Female,Bus,Highway,112,Fatal
+A258,"NH-48, Jaipur",31-10-2024,15:45,24,Male,Scooter,Highway,30,Fatal
+A259,"Jubilee Hills, Kolkata",17-01-2024,01:22,62,Male,Motorcycle,City Road,105,Fatal
+A260,"Jubilee Hills, Chennai",13-09-2024,22:21,36,Male,Bus,Highway,79,Serious
+A261,"Outer Ring Road, Kolkata",22-11-2024,00:26,68,Male,Scooter,Highway,76,Minor
+A262,"Park Street, Jaipur",30-08-2024,13:40,21,Female,Bicycle,Junction,108,Fatal
+A263,"NH-48, Kolkata",13-09-2024,21:35,32,Female,Bus,Junction,105,Serious
+A264,"MG Road, Pune",23-06-2024,10:06,31,Female,Auto Rickshaw,Highway,43,Minor
+A265,"Outer Ring Road, Kolkata",03-05-2024,17:09,59,Male,Auto Rickshaw,City Road,112,Serious
+A266,"MG Road, Delhi",07-05-2024,06:33,34,Female,Bicycle,Highway,110,Minor
+A267,"NH-44, Delhi",07-01-2024,13:03,43,Male,Auto Rickshaw,Highway,69,Minor
+A268,"Anna Nagar, Visakhapatnam",15-11-2024,08:02,34,Female,Car,Highway,44,Fatal
+A269,"Marine Drive, Jaipur",14-11-2024,11:18,74,Female,Auto Rickshaw,Junction,35,Serious
+A270,"NH-44, Ahmedabad",17-04-2024,23:00,22,Male,Scooter,Highway,55,Serious
+A271,"Marine Drive, Delhi",25-08-2024,05:17,54,Male,Bus,City Road,105,Fatal
+A272,"Marine Drive, Mumbai",12-02-2024,01:19,24,Female,Bicycle,Highway,78,Fatal
+A273,"Marine Drive, Hyderabad",19-04-2024,15:06,58,Male,Auto Rickshaw,Highway,93,Serious
+A274,"Park Street, Chennai",05-11-2024,17:02,20,Female,Bicycle,City Road,58,Serious
+A275,"NH-44, Bengaluru",02-07-2024,09:07,75,Male,Bicycle,Highway,105,Minor
+A276,"Marine Drive, Chennai",22-05-2024,03:14,23,Female,Bus,City Road,96,Serious
+A277,"Jubilee Hills, Chennai",31-10-2024,14:46,21,Female,Car,Highway,101,Fatal
+A278,"Banjara Hills, Pune",06-01-2024,12:44,70,Female,Bicycle,Highway,48,Minor
+A279,"Marine Drive, Mumbai",18-07-2024,13:52,31,Female,Bus,Junction,84,Minor
+A280,"Park Street, Kolkata",16-05-2024,05:26,23,Male,Bicycle,City Road,53,Serious
+A281,"Banjara Hills, Hyderabad",14-04-2024,09:56,46,Male,Bus,Highway,105,Fatal
+A282,"MG Road, Kolkata",06-08-2024,18:12,74,Female,Car,Highway,113,Minor
+A283,"Outer Ring Road, Chennai",21-11-2024,02:13,29,Male,Truck,City Road,26,Serious
+A284,"Jubilee Hills, Pune",17-11-2024,01:14,41,Male,Motorcycle,Junction,47,Serious
+A285,"Park Street, Jaipur",21-03-2024,15:49,67,Male,Scooter,City Road,49,Fatal
+A286,"Outer Ring Road, Pune",12-07-2024,09:16,48,Female,Auto Rickshaw,City Road,112,Fatal
+A287,"Anna Nagar, Mumbai",02-12-2024,11:34,65,Female,Scooter,City Road,48,Serious
+A288,"Banjara Hills, Kolkata",18-05-2024,09:26,73,Female,Truck,Highway,115,Minor
+A289,"Anna Nagar, Kolkata",30-01-2024,22:34,61,Female,Car,City Road,67,Minor
+A290,"Jubilee Hills, Pune",24-08-2024,21:24,47,Male,Scooter,Highway,119,Minor
+A291,"Jubilee Hills, Hyderabad",07-05-2024,09:34,18,Male,Car,Highway,20,Fatal
+A292,"Jubilee Hills, Chennai",25-03-2024,18:50,41,Female,Auto Rickshaw,Junction,80,Serious
+A293,"Jubilee Hills, Visakhapatnam",19-02-2024,04:31,33,Female,Auto Rickshaw,Highway,80,Fatal
+A294,"FC Road, Bengaluru",01-04-2024,02:27,22,Male,Truck,City Road,26,Serious
+A295,"Anna Nagar, Bengaluru",21-10-2024,01:13,31,Female,Car,Junction,55,Serious
+A296,"NH-44, Hyderabad",04-05-2024,08:50,71,Male,Motorcycle,City Road,98,Serious
+A297,"Jubilee Hills, Ahmedabad",01-07-2024,23:45,59,Male,Bus,Junction,77,Minor
+A298,"NH-44, Mumbai",29-09-2024,12:02,37,Male,Motorcycle,Junction,90,Serious
+A299,"FC Road, Bengaluru",22-11-2024,05:54,30,Male,Truck,Highway,20,Serious
+A300,"Park Street, Chennai",21-10-2024,22:44,66,Male,Scooter,Highway,56,Fatal
+A301,"Park Street, Delhi",25-01-2024,16:54,63,Female,Motorcycle,City Road,102,Serious
+A302,"Jubilee Hills, Bengaluru",21-11-2024,04:07,45,Male,Bus,Junction,79,Fatal
+A303,"NH-48, Jaipur",04-09-2024,05:43,44,Female,Motorcycle,Highway,62,Serious
+A304,"NH-44, Ahmedabad",19-11-2024,20:24,38,Female,Bicycle,City Road,105,Minor
+A305,"Anna Nagar, Mumbai",29-06-2024,18:51,21,Female,Auto Rickshaw,Highway,41,Serious
+A306,"Park Street, Delhi",23-03-2024,03:23,69,Male,Scooter,Junction,41,Fatal
+A307,"NH-44, Chennai",04-08-2024,05:12,49,Female,Scooter,Junction,67,Fatal
+A308,"NH-48, Chennai",07-03-2024,03:03,52,Male,Bus,Highway,119,Minor
+A309,"Marine Drive, Delhi",02-05-2024,17:41,38,Male,Scooter,City Road,23,Serious
+A310,"NH-48, Mumbai",27-08-2024,05:44,66,Female,Auto Rickshaw,City Road,90,Fatal
+A311,"Marine Drive, Delhi",05-06-2024,23:39,33,Female,Bus,Highway,90,Minor
+A312,"Anna Nagar, Bengaluru",16-06-2024,14:52,40,Male,Bus,Highway,93,Serious
+A313,"NH-44, Pune",12-04-2024,03:56,41,Female,Bus,Junction,35,Minor
+A314,"NH-48, Hyderabad",24-07-2024,03:22,51,Female,Auto Rickshaw,Junction,37,Minor
+A315,"Park Street, Jaipur",27-06-2024,03:20,54,Female,Auto Rickshaw,Junction,89,Serious
+A316,"Outer Ring Road, Ahmedabad",17-12-2024,03:46,61,Female,Auto Rickshaw,Junction,53,Fatal
+A317,"Park Street, Bengaluru",20-04-2024,12:48,64,Female,Truck,City Road,39,Serious
+A318,"Banjara Hills, Pune",31-12-2024,18:58,20,Male,Auto Rickshaw,Junction,120,Minor
+A319,"Banjara Hills, Delhi",02-04-2024,01:33,35,Male,Motorcycle,Junction,69,Serious
+A320,"MG Road, Ahmedabad",21-02-2024,01:34,62,Female,Bicycle,Junction,92,Minor
+A321,"Park Street, Ahmedabad",18-07-2024,08:52,35,Female,Motorcycle,Junction,71,Minor
+A322,"FC Road, Hyderabad",02-12-2024,03:54,54,Female,Auto Rickshaw,City Road,113,Fatal
+A323,"FC Road, Bengaluru",29-08-2024,14:14,64,Male,Car,Junction,66,Serious
+A324,"NH-44, Chennai",19-01-2024,18:40,69,Male,Bus,Highway,34,Minor
+A325,"NH-48, Visakhapatnam",17-02-2024,12:13,39,Male,Car,Junction,49,Minor
+A326,"Anna Nagar, Delhi",08-05-2024,23:36,43,Male,Auto Rickshaw,Junction,41,Serious
+A327,"NH-44, Visakhapatnam",23-04-2024,22:41,35,Female,Motorcycle,Highway,30,Minor
+A328,"Marine Drive, Hyderabad",05-09-2024,21:51,50,Female,Scooter,City Road,42,Serious
+A329,"Outer Ring Road, Bengaluru",16-04-2024,15:59,47,Male,Car,Highway,66,Minor
+A330,"FC Road, Hyderabad",26-10-2024,02:33,58,Female,Scooter,Junction,50,Minor
+A331,"Park Street, Bengaluru",16-12-2024,01:07,48,Female,Scooter,Highway,104,Minor
+A332,"Anna Nagar, Kolkata",02-11-2024,02:48,16,Female,Bus,Highway,89,Serious
+A333,"Outer Ring Road, Visakhapatnam",17-12-2024,20:14,67,Male,Motorcycle,City Road,117,Minor
+A334,"NH-48, Mumbai",11-09-2024,07:07,44,Male,Bus,City Road,88,Fatal
+A335,"FC Road, Mumbai",14-09-2024,14:59,47,Female,Motorcycle,Junction,99,Serious
+A336,"Banjara Hills, Chennai",20-12-2024,13:45,25,Male,Auto Rickshaw,Junction,83,Minor
+A337,"Marine Drive, Visakhapatnam",16-02-2024,15:03,50,Female,Scooter,City Road,51,Serious
+A338,"Park Street, Mumbai",26-08-2024,01:35,21,Female,Motorcycle,Highway,50,Fatal
+A339,"Park Street, Visakhapatnam",04-12-2024,14:23,46,Female,Car,Junction,44,Minor
+A340,"Outer Ring Road, Delhi",03-10-2024,11:47,35,Female,Auto Rickshaw,City Road,81,Fatal
+A341,"Anna Nagar, Hyderabad",04-10-2024,07:16,41,Female,Auto Rickshaw,City Road,60,Minor
+A342,"Anna Nagar, Kolkata",14-12-2024,10:54,38,Female,Truck,Junction,87,Minor
+A343,"Outer Ring Road, Ahmedabad",19-06-2024,05:45,56,Male,Auto Rickshaw,Junction,56,Fatal
+A344,"Anna Nagar, Delhi",02-12-2024,10:27,24,Male,Bus,Junction,99,Fatal
+A345,"Jubilee Hills, Jaipur",15-05-2024,10:10,72,Male,Bicycle,City Road,115,Minor
+A346,"FC Road, Hyderabad",03-10-2024,14:34,44,Female,Car,Highway,119,Serious
+A347,"MG Road, Visakhapatnam",30-04-2024,15:30,75,Male,Bus,Highway,63,Minor
+A348,"NH-44, Delhi",13-02-2024,04:47,55,Female,Bus,Highway,91,Minor
+A349,"FC Road, Delhi",16-12-2024,21:06,74,Male,Bus,Highway,45,Minor
+A350,"FC Road, Pune",09-06-2024,22:21,75,Female,Scooter,Highway,82,Serious
+A351,"NH-44, Pune",05-05-2024,00:15,39,Male,Truck,Highway,48,Minor
+A352,"Park Street, Ahmedabad",05-06-2024,23:01,34,Female,Auto Rickshaw,Highway,75,Fatal
+A353,"FC Road, Kolkata",24-03-2024,04:13,70,Male,Truck,City Road,107,Fatal
+A354,"Marine Drive, Pune",02-07-2024,08:33,24,Female,Motorcycle,Junction,100,Minor
+A355,"Outer Ring Road, Chennai",04-08-2024,08:48,34,Male,Bus,Junction,95,Minor
+A356,"Banjara Hills, Pune",13-11-2024,17:47,43,Female,Motorcycle,Junction,94,Serious
+A357,"MG Road, Pune",11-12-2024,21:39,66,Female,Bicycle,Highway,99,Minor
+A358,"NH-44, Visakhapatnam",10-04-2024,19:21,70,Male,Bus,Junction,66,Serious
+A359,"Anna Nagar, Mumbai",08-04-2024,21:06,21,Female,Motorcycle,Highway,93,Minor
+A360,"Park Street, Mumbai",27-07-2024,07:09,40,Female,Auto Rickshaw,Junction,58,Minor
+A361,"NH-44, Chennai",11-02-2024,21:20,17,Male,Truck,City Road,29,Serious
+A362,"Jubilee Hills, Mumbai",15-06-2024,11:10,65,Female,Motorcycle,Highway,111,Serious
+A363,"Banjara Hills, Chennai",05-02-2024,11:03,55,Female,Truck,Junction,92,Fatal
+A364,"Marine Drive, Kolkata",16-02-2024,01:57,58,Female,Truck,City Road,37,Minor
+A365,"Marine Drive, Delhi",30-04-2024,05:34,24,Female,Motorcycle,City Road,61,Minor
+A366,"MG Road, Mumbai",11-04-2024,08:25,31,Male,Car,City Road,83,Minor
+A367,"MG Road, Hyderabad",20-01-2024,06:19,33,Female,Bicycle,Highway,81,Serious
+A368,"Anna Nagar, Delhi",20-01-2024,16:40,29,Male,Car,Highway,27,Serious
+A369,"Anna Nagar, Ahmedabad",08-10-2024,18:32,68,Female,Scooter,Junction,79,Minor
+A370,"Outer Ring Road, Visakhapatnam",17-06-2024,05:44,30,Female,Motorcycle,Junction,108,Fatal
+A371,"NH-48, Delhi",01-11-2024,02:01,56,Male,Auto Rickshaw,Junction,54,Serious
+A372,"Outer Ring Road, Chennai",18-02-2024,03:43,50,Male,Car,Highway,114,Minor
+A373,"NH-44, Bengaluru",26-05-2024,19:03,29,Male,Bus,City Road,91,Fatal
+A374,"Jubilee Hills, Kolkata",27-07-2024,19:02,65,Female,Bicycle,Junction,56,Minor
+A375,"NH-48, Jaipur",03-04-2024,13:04,72,Male,Scooter,Highway,58,Minor
+A376,"NH-48, Jaipur",28-03-2024,22:47,53,Male,Car,Highway,85,Fatal
+A377,"FC Road, Delhi",29-11-2024,07:52,19,Female,Scooter,City Road,106,Fatal
+A378,"Jubilee Hills, Jaipur",12-07-2024,14:14,35,Female,Bicycle,Junction,101,Minor
+A379,"Banjara Hills, Chennai",15-08-2024,02:35,66,Male,Scooter,Highway,99,Minor
+A380,"Jubilee Hills, Chennai",06-04-2024,10:43,47,Male,Scooter,Highway,60,Fatal
+A381,"MG Road, Hyderabad",21-11-2024,05:18,32,Female,Motorcycle,Junction,61,Fatal
+A382,"FC Road, Ahmedabad",21-11-2024,23:47,53,Female,Car,City Road,67,Serious
+A383,"NH-44, Pune",02-07-2024,05:10,44,Female,Truck,Junction,97,Minor
+A384,"NH-44, Bengaluru",15-07-2024,09:23,42,Female,Bicycle,Junction,33,Serious
+A385,"NH-48, Hyderabad",09-07-2024,09:15,22,Female,Motorcycle,Junction,89,Serious
+A386,"Jubilee Hills, Hyderabad",11-05-2024,08:17,48,Female,Scooter,Highway,22,Serious
+A387,"NH-48, Delhi",14-08-2024,03:31,70,Female,Bus,Highway,103,Fatal
+A388,"NH-44, Pune",02-03-2024,13:38,31,Female,Auto Rickshaw,City Road,79,Fatal
+A389,"Anna Nagar, Mumbai",02-07-2024,09:00,22,Female,Car,Junction,78,Minor
+A390,"MG Road, Visakhapatnam",14-10-2024,07:25,42,Male,Bus,Junction,47,Serious
+A391,"NH-48, Pune",27-07-2024,02:59,44,Male,Scooter,City Road,57,Fatal
+A392,"Park Street, Kolkata",15-07-2024,10:17,51,Female,Bicycle,Highway,65,Minor
+A393,"Jubilee Hills, Delhi",10-05-2024,00:01,29,Male,Scooter,Junction,114,Minor
+A394,"MG Road, Hyderabad",27-04-2024,09:14,28,Female,Bicycle,Junction,65,Minor
+A395,"FC Road, Mumbai",28-02-2024,07:56,26,Male,Auto Rickshaw,City Road,92,Minor
+A396,"FC Road, Jaipur",01-05-2024,03:22,43,Female,Bus,Highway,74,Minor
+A397,"Banjara Hills, Kolkata",03-02-2024,21:53,44,Male,Truck,City Road,60,Fatal
+A398,"Jubilee Hills, Pune",20-07-2024,22:23,25,Female,Bus,Junction,80,Serious
+A399,"Marine Drive, Hyderabad",10-08-2024,18:24,23,Female,Scooter,Highway,117,Minor
+A400,"Anna Nagar, Visakhapatnam",01-08-2024,19:42,38,Female,Bicycle,Junction,88,Fatal
+A401,"Outer Ring Road, Jaipur",29-07-2024,20:16,52,Female,Bus,City Road,71,Minor
+A402,"Outer Ring Road, Pune",10-11-2024,02:20,39,Male,Motorcycle,Highway,97,Minor
+A403,"Jubilee Hills, Delhi",02-10-2024,18:57,34,Female,Auto Rickshaw,Junction,28,Minor
+A404,"NH-44, Ahmedabad",10-01-2024,02:49,37,Female,Scooter,City Road,33,Fatal
+A405,"Outer Ring Road, Delhi",05-09-2024,21:21,64,Male,Scooter,Highway,37,Serious
+A406,"Jubilee Hills, Chennai",11-08-2024,02:17,56,Male,Bicycle,Highway,115,Serious
+A407,"Anna Nagar, Bengaluru",07-04-2024,22:46,54,Male,Truck,City Road,67,Serious
+A408,"Anna Nagar, Mumbai",15-01-2024,20:31,71,Female,Motorcycle,Junction,42,Serious
+A409,"Outer Ring Road, Chennai",24-03-2024,20:52,30,Male,Car,Highway,112,Minor
+A410,"Banjara Hills, Delhi",27-09-2024,05:58,30,Female,Scooter,Highway,110,Minor
+A411,"FC Road, Delhi",23-09-2024,12:08,18,Male,Scooter,Junction,73,Fatal
+A412,"Anna Nagar, Mumbai",08-07-2024,21:59,67,Male,Motorcycle,City Road,51,Fatal
+A413,"Jubilee Hills, Ahmedabad",18-04-2024,17:18,58,Female,Bus,City Road,73,Fatal
+A414,"Anna Nagar, Hyderabad",05-12-2024,20:16,33,Female,Scooter,City Road,46,Serious
+A415,"NH-48, Visakhapatnam",21-09-2024,05:49,40,Male,Bus,City Road,52,Fatal
+A416,"FC Road, Delhi",07-03-2024,19:14,58,Female,Bus,Highway,40,Fatal
+A417,"MG Road, Jaipur",14-11-2024,11:48,36,Male,Car,Highway,69,Minor
+A418,"Banjara Hills, Bengaluru",26-12-2024,05:23,16,Male,Car,Highway,48,Serious
+A419,"Banjara Hills, Chennai",25-04-2024,23:33,75,Female,Bus,Junction,45,Fatal
+A420,"Jubilee Hills, Kolkata",08-07-2024,08:08,35,Male,Scooter,Highway,120,Serious
+A421,"NH-44, Visakhapatnam",16-04-2024,04:39,49,Male,Bicycle,City Road,95,Minor
+A422,"Banjara Hills, Jaipur",10-07-2024,09:04,18,Male,Bicycle,Highway,74,Minor
+A423,"Banjara Hills, Jaipur",17-08-2024,23:08,35,Male,Car,City Road,57,Serious
+A424,"Banjara Hills, Chennai",16-09-2024,22:02,26,Male,Truck,Junction,51,Fatal
+A425,"Jubilee Hills, Mumbai",09-11-2024,05:39,19,Female,Bicycle,Highway,68,Serious
+A426,"NH-44, Mumbai",20-01-2024,21:31,41,Male,Motorcycle,Highway,71,Fatal
+A427,"Jubilee Hills, Bengaluru",07-03-2024,17:28,58,Female,Car,City Road,101,Fatal
+A428,"Banjara Hills, Bengaluru",18-09-2024,13:24,38,Male,Bicycle,City Road,46,Fatal
+A429,"Banjara Hills, Chennai",17-09-2024,14:27,24,Male,Bicycle,Highway,110,Serious
+A430,"NH-48, Chennai",26-03-2024,20:57,44,Female,Bus,Highway,80,Serious
+A431,"NH-48, Delhi",10-01-2024,21:54,33,Male,Bus,Junction,50,Fatal
+A432,"FC Road, Pune",21-07-2024,10:21,22,Female,Auto Rickshaw,Highway,55,Fatal
+A433,"FC Road, Ahmedabad",19-10-2024,09:13,70,Female,Car,Highway,77,Minor
+A434,"Jubilee Hills, Chennai",13-01-2024,11:26,58,Female,Truck,Junction,24,Serious
+A435,"MG Road, Delhi",07-04-2024,10:43,35,Male,Bicycle,City Road,26,Serious
+A436,"NH-44, Jaipur",26-04-2024,01:13,38,Male,Car,City Road,65,Fatal
+A437,"Anna Nagar, Delhi",14-03-2024,12:40,37,Female,Truck,City Road,93,Fatal
+A438,"Park Street, Hyderabad",05-09-2024,08:44,40,Male,Bus,Highway,22,Fatal
+A439,"Banjara Hills, Ahmedabad",09-04-2024,06:01,63,Female,Scooter,City Road,28,Fatal
+A440,"Banjara Hills, Chennai",25-06-2024,11:27,29,Female,Motorcycle,City Road,31,Minor
+A441,"FC Road, Ahmedabad",21-09-2024,18:06,67,Female,Motorcycle,City Road,87,Minor
+A442,"Jubilee Hills, Pune",29-08-2024,08:55,21,Female,Motorcycle,Junction,118,Fatal
+A443,"NH-44, Kolkata",28-10-2024,10:37,29,Male,Bus,Highway,26,Fatal
+A444,"MG Road, Pune",12-12-2024,22:17,27,Male,Car,Junction,24,Fatal
+A445,"MG Road, Chennai",06-10-2024,08:12,40,Female,Auto Rickshaw,Junction,109,Fatal
+A446,"NH-48, Mumbai",05-12-2024,03:43,22,Female,Bicycle,City Road,46,Serious
+A447,"Park Street, Chennai",13-09-2024,16:37,63,Female,Auto Rickshaw,Junction,20,Minor
+A448,"MG Road, Pune",11-07-2024,15:38,47,Male,Bicycle,City Road,72,Fatal
+A449,"Marine Drive, Pune",05-06-2024,07:46,17,Female,Scooter,Highway,106,Minor
+A450,"Marine Drive, Kolkata",23-10-2024,13:11,25,Female,Bicycle,Junction,86,Serious
+A451,"Jubilee Hills, Visakhapatnam",09-09-2024,10:25,56,Female,Car,Highway,86,Serious
+A452,"Anna Nagar, Kolkata",27-01-2024,03:26,52,Male,Motorcycle,City Road,32,Fatal
+A453,"NH-44, Hyderabad",18-02-2024,15:00,32,Male,Auto Rickshaw,Highway,115,Serious
+A454,"Anna Nagar, Pune",29-06-2024,07:21,45,Male,Truck,City Road,102,Serious
+A455,"FC Road, Hyderabad",04-04-2024,07:18,53,Female,Scooter,Highway,59,Fatal
+A456,"Marine Drive, Chennai",13-06-2024,02:25,30,Female,Auto Rickshaw,Junction,38,Fatal
+A457,"Jubilee Hills, Jaipur",10-05-2024,01:09,29,Male,Motorcycle,Junction,93,Fatal
+A458,"MG Road, Pune",28-04-2024,22:05,75,Female,Bus,City Road,25,Minor
+A459,"Marine Drive, Chennai",16-08-2024,22:47,29,Male,Truck,City Road,61,Minor
+A460,"NH-48, Bengaluru",23-01-2024,18:31,52,Female,Motorcycle,Junction,37,Serious
+A461,"NH-44, Visakhapatnam",27-04-2024,17:21,44,Male,Auto Rickshaw,City Road,62,Minor
+A462,"Banjara Hills, Kolkata",30-04-2024,12:09,39,Male,Car,Junction,97,Fatal
+A463,"NH-48, Visakhapatnam",20-02-2024,17:51,44,Female,Truck,Junction,21,Serious
+A464,"Outer Ring Road, Chennai",13-07-2024,05:46,38,Female,Auto Rickshaw,City Road,67,Minor
+A465,"Outer Ring Road, Delhi",28-07-2024,18:07,69,Female,Car,Junction,49,Fatal
+A466,"Marine Drive, Delhi",16-11-2024,13:18,28,Female,Motorcycle,Junction,80,Fatal
+A467,"Outer Ring Road, Kolkata",19-04-2024,19:50,50,Female,Scooter,Junction,104,Serious
+A468,"Jubilee Hills, Ahmedabad",01-02-2024,21:37,47,Female,Bicycle,Junction,63,Serious
+A469,"Banjara Hills, Mumbai",03-09-2024,23:51,27,Male,Bus,City Road,64,Minor
+A470,"FC Road, Kolkata",08-10-2024,23:07,17,Female,Bicycle,Highway,63,Serious
+A471,"Park Street, Jaipur",09-02-2024,09:03,58,Male,Scooter,City Road,36,Serious
+A472,"Anna Nagar, Chennai",11-11-2024,18:46,30,Female,Truck,Junction,66,Serious
+A473,"Marine Drive, Hyderabad",01-08-2024,23:24,24,Female,Bus,Junction,99,Minor
+A474,"Jubilee Hills, Jaipur",24-03-2024,23:03,50,Male,Bicycle,Junction,113,Serious
+A475,"Marine Drive, Ahmedabad",12-12-2024,06:30,68,Female,Motorcycle,Junction,104,Minor
+A476,"Banjara Hills, Pune",16-11-2024,07:19,75,Male,Bicycle,Junction,45,Minor
+A477,"Banjara Hills, Pune",27-06-2024,21:28,33,Male,Bus,Junction,61,Serious
+A478,"Anna Nagar, Pune",07-01-2024,17:31,74,Male,Car,Junction,47,Fatal
+A479,"Marine Drive, Pune",12-06-2024,17:46,34,Female,Bicycle,City Road,52,Serious
+A480,"FC Road, Jaipur",13-12-2024,03:45,36,Female,Truck,City Road,31,Minor
+A481,"Jubilee Hills, Pune",08-05-2024,23:50,46,Female,Scooter,Junction,33,Fatal
+A482,"Anna Nagar, Jaipur",08-12-2024,15:52,49,Male,Bus,Highway,120,Fatal
+A483,"NH-48, Chennai",30-08-2024,15:43,71,Female,Scooter,City Road,37,Serious
+A484,"Marine Drive, Chennai",15-05-2024,19:49,74,Male,Motorcycle,City Road,77,Serious
+A485,"NH-48, Ahmedabad",10-02-2024,10:14,18,Male,Scooter,City Road,59,Serious
+A486,"Anna Nagar, Hyderabad",15-12-2024,18:46,31,Female,Auto Rickshaw,Junction,53,Fatal
+A487,"Jubilee Hills, Hyderabad",08-03-2024,11:05,58,Female,Truck,Highway,106,Fatal
+A488,"NH-44, Pune",19-05-2024,08:07,36,Female,Motorcycle,Junction,58,Serious
+A489,"NH-48, Jaipur",07-06-2024,13:43,34,Female,Bicycle,Highway,112,Minor
+A490,"Marine Drive, Bengaluru",01-04-2024,18:20,57,Male,Motorcycle,Highway,47,Minor
+A491,"Banjara Hills, Jaipur",03-10-2024,15:53,60,Female,Bus,Junction,65,Fatal
+A492,"Park Street, Pune",25-06-2024,11:29,64,Female,Truck,Highway,109,Fatal
+A493,"NH-44, Delhi",10-12-2024,13:39,59,Male,Motorcycle,Highway,69,Minor
+A494,"NH-48, Kolkata",05-09-2024,19:55,18,Female,Scooter,City Road,114,Fatal
+A495,"Marine Drive, Ahmedabad",13-07-2024,15:15,28,Male,Car,City Road,61,Serious
+A496,"Park Street, Hyderabad",06-09-2024,14:00,17,Female,Bus,City Road,84,Minor
+A497,"FC Road, Pune",20-09-2024,06:23,68,Male,Auto Rickshaw,Highway,67,Minor
+A498,"NH-44, Visakhapatnam",14-03-2024,19:57,55,Female,Scooter,City Road,72,Serious
+A499,"NH-48, Chennai",12-11-2024,11:16,31,Female,Motorcycle,Highway,86,Fatal
+A500,"Jubilee Hills, Pune",06-04-2024,15:53,45,Female,Truck,Highway,77,Minor
+A501,"MG Road, Visakhapatnam",26-02-2024,07:20,42,Male,Scooter,Junction,41,Fatal
+A502,"Anna Nagar, Mumbai",16-11-2024,18:46,49,Female,Car,Highway,45,Minor
+A503,"MG Road, Hyderabad",24-07-2024,20:32,36,Female,Bicycle,Junction,27,Serious
+A504,"Park Street, Chennai",08-12-2024,,42,Female,Auto Rickshaw,Highway,57,Minor
+A505,"MG Road, Hyderabad",12-09-2024,20:07,60,Female,Bicycle,Junction,41,Serious
+A506,"Outer Ring Road, Hyderabad",20-06-2024,16:09,29,Male,Car,City Road,69,Minor
+A507,"MG Road, Jaipur",24-10-2024,20:07,28,Male,Bus,null,83,Fatal
+A508,"Anna Nagar, Chennai",17-09-2024,17:21,44,Male,Car,City Road,27,Minor
+A509,"Outer Ring Road, Visakhapatnam",17-03-2024,14:34,19,Female,Car,Junction,116,Minor
+A510,null,06-11-2024,08:07,68,Male,Auto Rickshaw,City Road,27,Serious
+A511,"FC Road, Pune",27-01-2024,05:23,57,Male,Motorcycle,Junction,71,Fatal
+A512,"NH-44, Hyderabad",24-04-2024,18:50,48,Male,,Junction,34,Serious
+A513,"Park Street, Jaipur",08-06-2024,18:03,,Female,Truck,Highway,28,Minor
+A514,"Marine Drive, Kolkata",06-10-2024,05:47,66,Female,Auto Rickshaw,Highway,22,Fatal
+A515,"Anna Nagar, Ahmedabad",08-04-2024,20:21,50,Male,Motorcycle,City Road,34,Serious
+A516,"NH-48, Mumbai",01-01-2024,19:49,70,Female,Truck,City Road,22,Fatal
+A517,,27-06-2024,00:06,60,Male,Truck,Junction,51,Serious
+A518,"Outer Ring Road, Kolkata",13-05-2024,01:49,51,Female,Motorcycle,City Road,104,
+A519,"Outer Ring Road, Visakhapatnam",27-01-2024,21:14,75,Female,Motorcycle,Highway,20,Minor
+A520,"Marine Drive, Delhi",31-03-2024,03:35,55,Female,Motorcycle,Highway,114,Minor
+A521,"Anna Nagar, Jaipur",26-01-2024,02:01,64,Female,Car,,94,Minor
+A522,"Outer Ring Road, Jaipur",19-08-2024,14:08,22,Male,Scooter,Junction,61,Serious
+A523,"Jubilee Hills, Mumbai",18-05-2024,19:20,72,Female,Truck,Highway,92,Fatal
+A524,"NH-44, Kolkata",,10:00,18,Female,Bus,Highway,98,Minor
+A525,"NH-44, Pune",27-11-2024,14:32,66,Female,Bicycle,City Road,57,Serious
+A526,"Jubilee Hills, Visakhapatnam",16-02-2024,01:43,42,Male,Car,City Road,108,Serious
+A527,"NH-48, Pune",30-06-2024,05:41,32,Male,Bus,Highway,82,Serious
+A528,"Park Street, Hyderabad",22-02-2024,20:22,28,Male,Truck,Junction,67,Serious
+A529,"Jubilee Hills, Ahmedabad",06-09-2024,17:34,60,Female,Scooter,Highway,101,Fatal
+A530,"NH-44, Bengaluru",17-10-2024,09:26,64,Male,Bus,Junction,119,Serious
+A531,"Marine Drive, Mumbai",30-08-2024,12:46,47,Male,Bicycle,Junction,80,Fatal
+A532,"Marine Drive, Mumbai",02-07-2024,07:53,16,Male,Bus,City Road,76,Fatal
+A533,"Jubilee Hills, Visakhapatnam",05-03-2024,22:28,62,Female,Bicycle,Highway,98,Serious
+A534,"Marine Drive, Visakhapatnam",07-05-2024,13:07,19,Male,Auto Rickshaw,City Road,98,Serious
+A535,"NH-44, Jaipur",27-06-2024,22:33,64,Female,Bus,Highway,32,Serious
+A536,"Jubilee Hills, Hyderabad",05-05-2024,00:50,57,Female,Truck,Junction,72,Minor
+A537,"Banjara Hills, Mumbai",22-06-2024,08:40,71,Female,Motorcycle,Junction,100,Serious
+A538,"Anna Nagar, Bengaluru",01-08-2024,21:38,68,Male,Bus,City Road,54,Fatal
+A539,"Anna Nagar, Bengaluru",02-04-2024,06:47,19,Male,Truck,Junction,110,Serious
+A540,"FC Road, Mumbai",10-05-2024,02:54,48,Female,Motorcycle,Highway,72,Serious
+A541,"Outer Ring Road, Jaipur",10-10-2024,14:46,17,Male,Bus,Junction,56,Serious
+A542,"NH-48, Pune",07-10-2024,07:50,72,Female,Bus,City Road,41,Fatal
+A543,"Park Street, Delhi",31-05-2024,05:59,42,Female,Motorcycle,Highway,115,Minor
+A544,"MG Road, Pune",29-07-2024,00:13,33,Female,Car,Highway,61,Minor
+A545,"Anna Nagar, Hyderabad",08-05-2024,00:03,62,Female,Auto Rickshaw,Highway,75,Minor
+A546,"Jubilee Hills, Ahmedabad",24-10-2024,00:55,27,Male,Truck,City Road,105,Fatal
+A547,"Marine Drive, Delhi",20-11-2024,20:15,44,Male,Bicycle,City Road,42,Fatal
+A548,"NH-44, Jaipur",22-11-2024,08:27,36,Male,Bicycle,City Road,40,Minor
+A549,"Marine Drive, Bengaluru",25-01-2024,07:53,58,Female,Bus,City Road,92,Minor
+A550,"Anna Nagar, Visakhapatnam",18-07-2024,20:08,25,Male,Truck,Junction,105,Minor
+A551,"Park Street, Bengaluru",30-09-2024,22:13,69,Female,Bicycle,City Road,42,Serious
+A552,"NH-48, Kolkata",08-02-2024,10:28,57,Male,Auto Rickshaw,Highway,113,Serious
+A553,"NH-48, Hyderabad",02-12-2024,10:20,70,Female,Bus,Highway,49,Minor
+A554,"Anna Nagar, Ahmedabad",07-08-2024,14:08,22,Male,Scooter,City Road,56,Minor
+A555,"NH-44, Mumbai",20-12-2024,07:14,29,Male,Bus,Junction,88,Minor
+A556,"NH-44, Bengaluru",18-06-2024,,20,Male,Car,Junction,112,Minor
+A557,"FC Road, Delhi",14-11-2024,19:18,55,Female,Bus,,44,Serious
+A558,"FC Road, Mumbai",14-06-2024,11:20,50,Male,Bicycle,City Road,82,Fatal
+A559,"Jubilee Hills, Ahmedabad",18-06-2024,10:26,34,Female,Bicycle,City Road,104,Fatal
+A560,,03-06-2024,11:17,53,Female,Auto Rickshaw,City Road,53,Serious
+A561,"Jubilee Hills, Ahmedabad",28-06-2024,13:02,64,Male,Car,Junction,68,Fatal
+A562,"FC Road, Bengaluru",20-03-2024,20:13,27,Female,Auto Rickshaw,Junction,67,Fatal
+A563,"Outer Ring Road, Chennai",09-10-2024,00:43,73,Female,Bus,Highway,67,Serious
+A564,"NH-48, Bengaluru",15-06-2024,05:41,65,Male,Auto Rickshaw,Junction,101,Serious
+A565,"NH-48, Jaipur",22-11-2024,01:37,33,Female,Bus,City Road,63,Fatal
+A566,"Jubilee Hills, Delhi",21-06-2024,06:41,34,Female,Bicycle,Junction,95,Serious
+A567,"Park Street, Chennai",02-12-2024,15:02,16,Female,Car,Junction,110,Minor
+A568,"Park Street, Pune",12-02-2024,,,Male,Bus,Junction,47,Serious
+A569,"Banjara Hills, Kolkata",07-01-2024,00:26,41,Male,Scooter,City Road,101,Serious
+A570,"Park Street, Chennai",19-10-2024,01:22,71,Male,Scooter,City Road,21,Serious
+A571,"FC Road, Jaipur",08-10-2024,17:38,45,Male,Scooter,Highway,44,Fatal
+A572,"Anna Nagar, Visakhapatnam",23-05-2024,18:18,38,Female,Truck,City Road,105,Minor
+A573,"Marine Drive, Visakhapatnam",09-06-2024,13:42,75,Female,Auto Rickshaw,Highway,,Serious
+A574,"Park Street, Bengaluru",14-12-2024,06:30,64,Male,Bicycle,Highway,55,Minor
+A575,"Jubilee Hills, Visakhapatnam",,11:23,62,Female,Bus,City Road,117,Serious
+A576,"MG Road, Kolkata",26-02-2024,12:01,42,Female,Bicycle,Highway,63,Serious
+A577,"NH-44, Pune",07-08-2024,22:19,52,,Bicycle,Junction,21,Serious
+A578,"MG Road, Kolkata",28-04-2024,16:35,37,Male,Truck,Junction,108,Fatal
+A579,"Outer Ring Road, Visakhapatnam",09-03-2024,22:42,40,Female,Car,City Road,86,Serious
+A580,"Marine Drive, Jaipur",10-09-2024,02:45,70,Female,Car,Highway,62,Fatal
+A581,"Jubilee Hills, Hyderabad",18-05-2024,06:22,50,Female,Motorcycle,Junction,28,Minor
+A582,"Jubilee Hills, Visakhapatnam",30-04-2024,14:35,18,Male,Bicycle,Highway,108,Serious
+A583,"NH-48, Hyderabad",18-04-2024,04:57,32,Female,Auto Rickshaw,City Road,81,Fatal
+A584,"Anna Nagar, Mumbai",04-09-2024,13:25,37,Female,Car,City Road,93,Fatal
+A585,"Marine Drive, Ahmedabad",26-08-2024,22:46,44,Male,Motorcycle,Junction,55,Minor
+A586,"NH-44, Bengaluru",29-09-2024,07:28,31,Male,Bicycle,Junction,86,Fatal
+A587,"Park Street, Jaipur",22-03-2024,19:49,19,Male,Bicycle,Highway,64,Fatal
+A588,"MG Road, Ahmedabad",24-09-2024,00:26,26,Female,Auto Rickshaw,Junction,46,Minor
+A589,"Jubilee Hills, Hyderabad",09-06-2024,05:36,55,Female,Car,Highway,83,Serious
+A590,"Park Street, Hyderabad",14-04-2024,16:00,35,Male,Motorcycle,City Road,80,Minor
+A591,"FC Road, Visakhapatnam",09-01-2024,01:42,21,Male,Car,Highway,33,Serious
+A592,"FC Road, Chennai",21-08-2024,14:34,45,Female,Car,Junction,78,Minor
+A593,"Anna Nagar, Visakhapatnam",29-10-2024,17:49,,Female,Car,Junction,80,Fatal
+A594,"Jubilee Hills, Delhi",13-12-2024,22:44,30,Male,Car,Highway,93,Serious
+A595,,04-04-2024,12:47,19,Male,Motorcycle,City Road,83,Fatal
+A596,"NH-48, Delhi",20-04-2024,13:35,62,Male,Auto Rickshaw,Junction,,Serious
+A597,"Anna Nagar, Visakhapatnam",14-12-2024,07:37,70,Female,Bus,Junction,86,Serious
+A598,"NH-48, Bengaluru",27-11-2024,09:30,47,Female,Car,City Road,99,Serious
+A599,"Park Street, Bengaluru",06-02-2024,08:49,39,Female,Motorcycle,Highway,88,Minor
+A600,"Jubilee Hills, Chennai",,17:37,48,Female,Bicycle,City Road,81,Serious

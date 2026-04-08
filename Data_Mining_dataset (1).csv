@@ -1,0 +1,501 @@
+Vehicle_Type,Time,Gender,Age_Group,Road_Type,Accident_Severity
+Truck,Afternoon,Female,18-25,Highway,Minor
+Bike,Evening,Male,26-40,Highway,Moderate
+Bike,Afternoon,Male,60+,Highway,Minor
+Bike,Afternoon,Male,60+,Highway,Minor
+Bike,Afternoon,Female,60+,Highway,Minor
+Truck,Afternoon,Male,26-40,City Road,Severe
+Bike,Morning,Male,60+,Junction,Moderate
+Truck,Night,Female,41-60,City Road,Severe
+Car,Afternoon,Male,41-60,Junction,Minor
+Truck,Night,Female,18-25,Highway,Severe
+Car,Evening,Male,60+,City Road,Severe
+Bike,Evening,Female,41-60,Junction,Moderate
+Bus,Morning,Male,41-60,City Road,Minor
+Bike,Morning,Female,60+,City Road,Minor
+Truck,Morning,Female,41-60,Highway,Minor
+Bus,Morning,Male,41-60,Highway,Severe
+Bus,Night,Female,18-25,Highway,Severe
+Truck,Afternoon,Female,41-60,Junction,Minor
+Truck,Night,Male,26-40,Highway,Minor
+Car,Morning,Female,26-40,City Road,Minor
+Car,Night,Female,41-60,Highway,Moderate
+Bike,Night,Female,60+,City Road,Minor
+Bus,Night,Male,26-40,Highway,Severe
+Bus,Afternoon,Male,41-60,Junction,Minor
+Car,Morning,Female,18-25,Highway,Minor
+Bus,Afternoon,Female,41-60,Junction,Minor
+Bike,Morning,Female,60+,City Road,Minor
+Bike,Afternoon,Male,41-60,Junction,Moderate
+Car,Morning,Male,41-60,Highway,Minor
+Bike,Evening,Male,41-60,Junction,Moderate
+Car,Evening,Male,41-60,Junction,Moderate
+Car,Afternoon,Female,26-40,Highway,Minor
+Truck,Morning,Male,41-60,City Road,Minor
+Truck,Night,Female,41-60,Highway,Severe
+Car,Night,Male,41-60,Highway,Moderate
+Bike,Night,Female,18-25,Junction,Moderate
+Car,Night,Male,60+,Junction,Moderate
+Bus,Night,Female,18-25,Junction,Minor
+Bike,Afternoon,Female,26-40,Junction,Moderate
+Bus,Evening,Male,26-40,Highway,Severe
+Bike,Afternoon,Female,26-40,Highway,Minor
+Truck,Afternoon,Female,41-60,Junction,Minor
+Car,Morning,Female,60+,Junction,Minor
+Bus,Afternoon,Male,18-25,City Road,Minor
+Bike,Afternoon,Male,26-40,City Road,Minor
+Bike,Morning,Female,60+,Highway,Minor
+Bike,Afternoon,Male,41-60,Highway,Minor
+Bus,Morning,Male,60+,City Road,Minor
+Car,Evening,Female,60+,Junction,Moderate
+Truck,Afternoon,Female,26-40,City Road,Moderate
+Truck,Morning,Male,60+,Highway,Minor
+Truck,Morning,Male,41-60,Highway,Minor
+Car,Night,Male,18-25,City Road,Moderate
+Car,Afternoon,Male,60+,Junction,Minor
+Bus,Afternoon,Female,41-60,Highway,Severe
+Bike,Evening,Female,60+,Junction,Moderate
+Truck,Morning,Male,26-40,Highway,Moderate
+Bike,Afternoon,Female,26-40,City Road,Minor
+Truck,Night,Male,60+,Junction,Severe
+Truck,Morning,Male,60+,Highway,Minor
+Bike,Morning,Female,18-25,Junction,Moderate
+Bike,Evening,Male,60+,Highway,Minor
+Bus,Evening,Male,18-25,Junction,Minor
+Bike,Afternoon,Female,18-25,Highway,Minor
+Truck,Evening,Male,41-60,City Road,Minor
+Car,Evening,Female,18-25,City Road,Minor
+Car,Night,Male,60+,Highway,Moderate
+Bus,Night,Female,41-60,Junction,Minor
+Car,Evening,Male,26-40,City Road,Moderate
+Bike,Afternoon,Male,18-25,Junction,Moderate
+Truck,Night,Male,18-25,Highway,Severe
+Bus,Evening,Male,41-60,Highway,Severe
+Car,Evening,Female,18-25,City Road,Moderate
+Truck,Evening,Male,18-25,City Road,Minor
+Car,Morning,Female,60+,Highway,Minor
+Car,Afternoon,Male,18-25,City Road,Minor
+Car,Night,Male,60+,Highway,Moderate
+Car,Morning,Male,60+,City Road,Minor
+Bus,Afternoon,Female,26-40,Highway,Severe
+Bus,Afternoon,Male,26-40,Highway,Minor
+Truck,Morning,Female,60+,Junction,Minor
+Car,Night,Female,18-25,City Road,Moderate
+Bike,Morning,Female,41-60,Highway,Minor
+Car,Afternoon,Male,60+,City Road,Minor
+Bike,Night,Female,18-25,Junction,Moderate
+Car,Morning,Male,41-60,City Road,Minor
+Truck,Afternoon,Male,60+,Highway,Minor
+Bike,Afternoon,Female,41-60,Junction,Moderate
+Bus,Night,Female,18-25,Junction,Minor
+Bus,Morning,Female,60+,Highway,Severe
+Bus,Evening,Female,26-40,Highway,Minor
+Car,Evening,Female,26-40,Junction,Moderate
+Truck,Morning,Female,26-40,City Road,Minor
+Bus,Night,Male,26-40,Highway,Severe
+Bus,Night,Female,26-40,City Road,Minor
+Truck,Morning,Female,18-25,City Road,Minor
+Bus,Morning,Male,18-25,Junction,Minor
+Truck,Morning,Female,60+,Junction,Moderate
+Truck,Morning,Female,18-25,Highway,Minor
+Truck,Afternoon,Male,41-60,City Road,Minor
+Car,Evening,Female,18-25,Junction,Moderate
+Car,Morning,Male,60+,City Road,Minor
+Car,Evening,Female,18-25,Junction,Moderate
+Bus,Evening,Female,41-60,City Road,Minor
+Truck,Night,Male,41-60,City Road,Severe
+Bus,Morning,Male,26-40,Highway,Severe
+Bus,Afternoon,Female,41-60,City Road,Minor
+Car,Afternoon,Male,26-40,City Road,Minor
+Truck,Afternoon,Female,41-60,Junction,Minor
+Bike,Night,Female,60+,Junction,Moderate
+Bus,Evening,Female,18-25,City Road,Minor
+Truck,Afternoon,Male,18-25,City Road,Minor
+Bus,Night,Female,60+,City Road,Minor
+Bike,Afternoon,Male,60+,Junction,Moderate
+Bus,Night,Male,18-25,City Road,Minor
+Bus,Night,Male,18-25,Highway,Severe
+Bike,Night,Male,18-25,Highway,Minor
+Car,Morning,Female,26-40,Junction,Minor
+Bus,Morning,Male,18-25,City Road,Minor
+Car,Night,Female,26-40,Junction,Severe
+Truck,Night,Female,41-60,Junction,Severe
+Car,Night,Male,26-40,Highway,Moderate
+Truck,Morning,Male,26-40,City Road,Minor
+Bus,Morning,Female,26-40,Junction,Minor
+Truck,Afternoon,Female,18-25,Junction,Minor
+Bus,Evening,Female,26-40,Highway,Severe
+Bike,Afternoon,Female,26-40,City Road,Minor
+Car,Afternoon,Female,26-40,City Road,Minor
+Truck,Morning,Female,26-40,Highway,Minor
+Bike,Afternoon,Female,18-25,Highway,Severe
+Car,Night,Male,18-25,Highway,Moderate
+Truck,Morning,Male,26-40,City Road,Severe
+Bus,Morning,Female,60+,City Road,Minor
+Bus,Afternoon,Male,18-25,Highway,Severe
+Truck,Night,Male,26-40,City Road,Severe
+Truck,Night,Male,18-25,Junction,Severe
+Truck,Night,Male,41-60,City Road,Severe
+Bus,Morning,Female,26-40,Junction,Minor
+Bike,Night,Male,60+,Highway,Minor
+Bike,Evening,Male,18-25,Junction,Moderate
+Truck,Evening,Male,41-60,Junction,Minor
+Truck,Evening,Female,18-25,Junction,Minor
+Bike,Morning,Male,18-25,City Road,Minor
+Bus,Night,Female,60+,City Road,Moderate
+Car,Morning,Female,26-40,Junction,Minor
+Truck,Night,Female,18-25,Junction,Minor
+Car,Night,Male,18-25,City Road,Moderate
+Truck,Afternoon,Female,18-25,Highway,Minor
+Bike,Afternoon,Male,60+,City Road,Minor
+Bus,Afternoon,Male,26-40,City Road,Minor
+Car,Morning,Female,41-60,City Road,Minor
+Truck,Evening,Female,26-40,City Road,Minor
+Car,Afternoon,Male,41-60,Junction,Minor
+Bus,Evening,Male,26-40,Junction,Minor
+Bus,Morning,Male,18-25,City Road,Minor
+Car,Night,Female,18-25,City Road,Moderate
+Bike,Afternoon,Male,18-25,City Road,Minor
+Car,Night,Female,18-25,Highway,Moderate
+Truck,Afternoon,Male,41-60,City Road,Minor
+Truck,Morning,Male,18-25,City Road,Minor
+Truck,Afternoon,Female,18-25,Highway,Moderate
+Bus,Morning,Female,18-25,City Road,Minor
+Car,Morning,Male,60+,Junction,Minor
+Truck,Evening,Female,18-25,City Road,Minor
+Truck,Night,Female,18-25,City Road,Severe
+Bus,Night,Male,18-25,City Road,Minor
+Bus,Morning,Male,60+,Junction,Minor
+Bus,Afternoon,Male,18-25,Highway,Severe
+Bus,Morning,Female,26-40,Highway,Severe
+Car,Afternoon,Male,18-25,City Road,Minor
+Car,Evening,Male,18-25,City Road,Moderate
+Bus,Morning,Male,26-40,Junction,Minor
+Car,Night,Male,26-40,Highway,Moderate
+Car,Night,Female,18-25,Highway,Moderate
+Car,Morning,Male,41-60,Highway,Minor
+Bus,Evening,Female,41-60,Junction,Minor
+Bus,Evening,Female,60+,Highway,Severe
+Bus,Night,Male,60+,Junction,Minor
+Bus,Afternoon,Female,60+,Highway,Moderate
+Bus,Evening,Male,60+,Junction,Minor
+Bike,Morning,Male,18-25,Junction,Moderate
+Bike,Morning,Female,26-40,Highway,Minor
+Bike,Afternoon,Male,60+,City Road,Minor
+Car,Afternoon,Male,41-60,Junction,Minor
+Car,Evening,Female,60+,Highway,Moderate
+Bus,Afternoon,Female,26-40,City Road,Minor
+Car,Afternoon,Female,26-40,Junction,Minor
+Truck,Night,Male,41-60,Highway,Severe
+Bike,Evening,Female,18-25,City Road,Minor
+Bus,Evening,Female,60+,City Road,Minor
+Truck,Evening,Male,60+,Highway,Severe
+Bike,Evening,Female,41-60,Junction,Moderate
+Truck,Morning,Male,26-40,Highway,Minor
+Bus,Night,Female,18-25,Highway,Severe
+Bike,Morning,Male,18-25,Junction,Moderate
+Bike,Evening,Male,60+,Junction,Moderate
+Car,Afternoon,Female,60+,Highway,Minor
+Car,Night,Male,18-25,Junction,Severe
+Truck,Night,Female,18-25,Highway,Severe
+Truck,Night,Female,26-40,Highway,Severe
+Bike,Morning,Male,60+,Highway,Minor
+Bike,Morning,Male,26-40,Highway,Minor
+Bus,Afternoon,Female,18-25,City Road,Minor
+Bus,Morning,Female,60+,Junction,Minor
+Bike,Night,Male,26-40,Highway,Minor
+Bike,Morning,Female,41-60,Junction,Severe
+Bus,Evening,Female,26-40,Highway,Severe
+Bike,Afternoon,Female,26-40,Junction,Moderate
+Car,Evening,Male,60+,City Road,Moderate
+Bus,Night,Female,18-25,Highway,Severe
+Car,Evening,Male,60+,Junction,Moderate
+Car,Afternoon,Male,18-25,Highway,Minor
+Truck,Afternoon,Male,18-25,Highway,Severe
+Bike,Morning,Male,18-25,Junction,Moderate
+Car,Morning,Female,18-25,Highway,Minor
+Bike,Morning,Male,18-25,Junction,Moderate
+Bus,Morning,Male,18-25,Junction,Minor
+Truck,Evening,Female,41-60,Highway,Minor
+Truck,Morning,Female,41-60,Junction,Minor
+Truck,Morning,Female,18-25,City Road,Minor
+Bike,Evening,Female,18-25,Junction,Moderate
+Bike,Evening,Male,60+,Highway,Minor
+Truck,Morning,Male,41-60,City Road,Severe
+Car,Night,Female,41-60,Junction,Moderate
+Truck,Afternoon,Male,60+,Highway,Severe
+Bike,Night,Male,41-60,City Road,Moderate
+Bike,Night,Male,41-60,Highway,Minor
+Bus,Afternoon,Female,26-40,City Road,Severe
+Bike,Evening,Female,26-40,City Road,Minor
+Truck,Afternoon,Female,60+,Junction,Minor
+Car,Afternoon,Female,60+,Junction,Minor
+Car,Afternoon,Female,41-60,Junction,Minor
+Car,Afternoon,Male,41-60,Junction,Minor
+Car,Afternoon,Female,26-40,City Road,Minor
+Bike,Afternoon,Male,26-40,City Road,Minor
+Truck,Evening,Female,41-60,Highway,Minor
+Truck,Afternoon,Female,60+,Highway,Moderate
+Car,Evening,Female,18-25,Highway,Moderate
+Bus,Morning,Male,60+,Junction,Minor
+Bus,Afternoon,Male,26-40,Junction,Moderate
+Truck,Evening,Male,60+,Highway,Minor
+Car,Evening,Female,60+,City Road,Moderate
+Car,Evening,Male,60+,City Road,Moderate
+Bike,Morning,Female,26-40,Highway,Minor
+Car,Evening,Male,60+,Junction,Moderate
+Bus,Morning,Female,41-60,City Road,Minor
+Bus,Afternoon,Male,60+,Junction,Minor
+Bike,Evening,Male,41-60,City Road,Minor
+Bike,Morning,Male,60+,City Road,Minor
+Truck,Evening,Male,26-40,City Road,Minor
+Car,Night,Female,26-40,Highway,Minor
+Car,Night,Male,26-40,City Road,Moderate
+Bus,Night,Female,26-40,City Road,Minor
+Car,Evening,Female,41-60,City Road,Moderate
+Bus,Morning,Female,41-60,Highway,Severe
+Truck,Night,Female,60+,Junction,Severe
+Truck,Afternoon,Female,60+,Highway,Severe
+Truck,Afternoon,Female,18-25,Junction,Minor
+Truck,Evening,Male,26-40,Highway,Moderate
+Truck,Afternoon,Male,60+,Junction,Severe
+Bike,Evening,Male,60+,Junction,Moderate
+Bike,Night,Male,18-25,City Road,Minor
+Car,Night,Female,18-25,City Road,Moderate
+Car,Night,Male,60+,Highway,Moderate
+Bike,Afternoon,Female,60+,Junction,Moderate
+Truck,Night,Female,60+,City Road,Severe
+Bike,Afternoon,Female,18-25,Highway,Minor
+Truck,Morning,Female,60+,Highway,Severe
+Bus,Afternoon,Female,18-25,Junction,Minor
+Bus,Afternoon,Female,60+,City Road,Minor
+Bike,Evening,Female,41-60,City Road,Minor
+Truck,Evening,Male,60+,Highway,Minor
+Truck,Evening,Male,18-25,Highway,Minor
+Bus,Morning,Female,41-60,Highway,Minor
+Bus,Morning,Female,26-40,Junction,Minor
+Bike,Afternoon,Male,60+,Junction,Moderate
+Bike,Afternoon,Male,60+,Highway,Minor
+Bike,Evening,Male,41-60,Junction,Moderate
+Truck,Afternoon,Female,18-25,City Road,Severe
+Bike,Night,Male,18-25,City Road,Minor
+Bus,Night,Male,18-25,Junction,Minor
+Car,Night,Female,18-25,Highway,Moderate
+Car,Afternoon,Male,60+,Highway,Severe
+Bike,Morning,Male,18-25,Highway,Minor
+Truck,Afternoon,Female,26-40,Highway,Minor
+Car,Morning,Female,60+,City Road,Minor
+Truck,Morning,Male,18-25,Highway,Severe
+Bike,Night,Female,41-60,Junction,Moderate
+Bus,Morning,Female,41-60,Junction,Minor
+Bus,Afternoon,Male,18-25,City Road,Minor
+Car,Night,Female,60+,City Road,Moderate
+Truck,Evening,Female,18-25,Junction,Minor
+Truck,Morning,Male,41-60,Junction,Minor
+Car,Night,Female,60+,Junction,Moderate
+Car,Night,Female,18-25,City Road,Moderate
+Bus,Afternoon,Male,41-60,Highway,Severe
+Car,Evening,Female,41-60,Junction,Severe
+Bus,Night,Male,26-40,City Road,Minor
+Bus,Night,Male,41-60,Junction,Minor
+Bus,Night,Male,41-60,Highway,Severe
+Truck,Evening,Female,26-40,Highway,Minor
+Bike,Afternoon,Female,41-60,Junction,Moderate
+Bus,Afternoon,Male,18-25,City Road,Minor
+Bike,Evening,Female,18-25,Highway,Minor
+Bike,Evening,Female,18-25,Highway,Severe
+Bus,Afternoon,Female,41-60,City Road,Moderate
+Car,Evening,Male,41-60,Highway,Moderate
+Bus,Morning,Male,18-25,Highway,Severe
+Bus,Night,Male,60+,Highway,Severe
+Bike,Evening,Female,26-40,Junction,Severe
+Bus,Afternoon,Female,26-40,City Road,Minor
+Car,Afternoon,Male,41-60,City Road,Severe
+Bike,Morning,Female,60+,Highway,Moderate
+Bike,Afternoon,Female,60+,Junction,Moderate
+Truck,Evening,Female,18-25,City Road,Minor
+Car,Night,Male,26-40,Junction,Moderate
+Bus,Afternoon,Male,26-40,Highway,Severe
+Truck,Afternoon,Female,18-25,City Road,Minor
+Bike,Night,Female,41-60,Highway,Minor
+Truck,Afternoon,Female,26-40,Junction,Severe
+Bus,Afternoon,Female,26-40,City Road,Minor
+Car,Afternoon,Male,41-60,Junction,Minor
+Truck,Afternoon,Female,60+,Highway,Minor
+Bus,Morning,Male,18-25,Junction,Minor
+Car,Night,Female,18-25,City Road,Moderate
+Truck,Night,Female,26-40,Highway,Moderate
+Bus,Afternoon,Male,41-60,Highway,Severe
+Bike,Night,Female,26-40,City Road,Severe
+Truck,Afternoon,Female,60+,Highway,Minor
+Car,Evening,Male,26-40,Highway,Moderate
+Car,Afternoon,Male,18-25,Highway,Minor
+Bus,Evening,Male,26-40,Highway,Severe
+Car,Evening,Male,18-25,Highway,Moderate
+Bus,Morning,Female,41-60,City Road,Minor
+Bus,Morning,Male,60+,City Road,Severe
+Truck,Afternoon,Male,41-60,Highway,Moderate
+Bike,Evening,Female,18-25,Highway,Minor
+Car,Evening,Female,18-25,City Road,Moderate
+Bus,Night,Male,26-40,Highway,Severe
+Bike,Afternoon,Male,26-40,Highway,Minor
+Bike,Morning,Male,26-40,City Road,Severe
+Bus,Afternoon,Female,18-25,City Road,Minor
+Car,Morning,Female,18-25,City Road,Minor
+Truck,Morning,Male,18-25,City Road,Minor
+Car,Afternoon,Male,60+,Junction,Minor
+Bike,Night,Female,18-25,City Road,Minor
+Bike,Evening,Female,60+,Highway,Minor
+Bus,Evening,Female,18-25,City Road,Minor
+Truck,Afternoon,Female,18-25,City Road,Minor
+Bike,Evening,Female,26-40,Junction,Moderate
+Car,Afternoon,Female,60+,City Road,Minor
+Bike,Morning,Female,41-60,Junction,Moderate
+Bike,Morning,Female,18-25,Junction,Minor
+Bike,Evening,Male,41-60,City Road,Minor
+Bike,Morning,Female,18-25,City Road,Minor
+Car,Night,Male,26-40,City Road,Moderate
+Truck,Evening,Male,18-25,Junction,Minor
+Bus,Afternoon,Female,26-40,Junction,Minor
+Bus,Evening,Female,60+,City Road,Moderate
+Car,Afternoon,Female,60+,Highway,Minor
+Car,Afternoon,Female,41-60,City Road,Minor
+Car,Evening,Male,18-25,Highway,Moderate
+Truck,Night,Male,60+,City Road,Severe
+Bike,Afternoon,Male,60+,City Road,Minor
+Car,Afternoon,Female,18-25,Junction,Minor
+Bus,Evening,Male,60+,Highway,Severe
+Bike,Night,Female,26-40,City Road,Minor
+Truck,Morning,Female,60+,Junction,Minor
+Truck,Evening,Female,60+,Junction,Minor
+Bus,Evening,Male,60+,City Road,Minor
+Car,Evening,Male,60+,Junction,Moderate
+Car,Morning,Female,41-60,Junction,Minor
+Truck,Afternoon,Female,18-25,Highway,Severe
+Bus,Evening,Female,60+,Junction,Minor
+Bus,Night,Female,41-60,Highway,Severe
+Truck,Night,Male,18-25,Junction,Severe
+Bus,Evening,Female,26-40,Highway,Severe
+Bus,Night,Female,41-60,Junction,Minor
+Bike,Afternoon,Female,41-60,City Road,Minor
+Truck,Afternoon,Male,41-60,Junction,Minor
+Bus,Afternoon,Female,26-40,Junction,Minor
+Bus,Afternoon,Male,18-25,City Road,Minor
+Bike,Night,Male,18-25,City Road,Minor
+Bike,Evening,Female,18-25,Junction,Minor
+Car,Afternoon,Female,41-60,Junction,Minor
+Car,Afternoon,Female,18-25,Highway,Severe
+Bike,Morning,Male,18-25,Highway,Minor
+Bus,Night,Female,18-25,Junction,Severe
+Truck,Afternoon,Male,41-60,City Road,Moderate
+Bike,Morning,Female,26-40,City Road,Minor
+Bike,Morning,Male,60+,Junction,Moderate
+Bike,Night,Male,26-40,Highway,Minor
+Car,Afternoon,Female,18-25,City Road,Minor
+Truck,Night,Male,26-40,Junction,Severe
+Car,Night,Female,60+,Junction,Moderate
+Car,Morning,Male,26-40,City Road,Minor
+Bike,Evening,Female,41-60,Highway,Minor
+Bus,Evening,Female,18-25,Highway,Severe
+Truck,Afternoon,Female,26-40,City Road,Minor
+Car,Night,Male,41-60,Junction,Minor
+Car,Afternoon,Male,26-40,City Road,Minor
+Car,Night,Female,26-40,Highway,Moderate
+Car,Night,Female,26-40,City Road,Moderate
+Car,Afternoon,Female,26-40,Junction,Minor
+Bus,Evening,Male,60+,Junction,Minor
+Car,Morning,Male,41-60,Junction,Minor
+Bus,Morning,Male,41-60,Highway,Severe
+Bike,Afternoon,Male,41-60,Highway,Minor
+Bike,Morning,Female,41-60,Highway,Moderate
+Bike,Afternoon,Female,26-40,Junction,Moderate
+Truck,Night,Female,26-40,City Road,Moderate
+Truck,Night,Male,60+,Highway,Severe
+Bus,Evening,Male,26-40,City Road,Severe
+Car,Morning,Female,18-25,Junction,Minor
+Truck,Afternoon,Female,18-25,Junction,Minor
+Car,Afternoon,Female,41-60,City Road,Minor
+Truck,Morning,Male,41-60,Highway,Minor
+Bike,Afternoon,Male,18-25,City Road,Minor
+Truck,Morning,Female,60+,Junction,Minor
+Car,Evening,Male,41-60,City Road,Moderate
+Truck,Night,Male,26-40,City Road,Severe
+Car,Night,Male,18-25,Junction,Moderate
+Truck,Afternoon,Male,26-40,Junction,Minor
+Bike,Afternoon,Female,41-60,City Road,Severe
+Truck,Afternoon,Male,60+,Junction,Minor
+Car,Morning,Female,26-40,Junction,Minor
+Truck,Afternoon,Male,26-40,City Road,Minor
+Bike,Night,Male,26-40,Junction,Moderate
+Bus,Afternoon,Male,41-60,Highway,Severe
+Car,Morning,Male,41-60,City Road,Severe
+Truck,Night,Male,26-40,City Road,Severe
+Truck,Evening,Male,18-25,Highway,Moderate
+Bike,Evening,Female,18-25,Junction,Moderate
+Bus,Night,Male,41-60,Highway,Severe
+Bike,Evening,Female,26-40,Highway,Minor
+Bike,Night,Male,41-60,City Road,Severe
+Car,Morning,Female,41-60,City Road,Moderate
+Truck,Afternoon,Female,26-40,Junction,Minor
+Truck,Afternoon,Male,18-25,Highway,Minor
+Bus,Morning,Male,60+,City Road,Minor
+Car,Evening,Male,26-40,Junction,Moderate
+Car,Night,Female,18-25,Highway,Moderate
+Bus,Afternoon,Male,41-60,Highway,Severe
+Bus,Afternoon,Female,18-25,Junction,Severe
+Bus,Evening,Male,60+,Highway,Severe
+Car,Afternoon,Female,41-60,Highway,Minor
+Truck,Afternoon,Female,18-25,Junction,Minor
+Bus,Night,Male,60+,Junction,Minor
+Bike,Evening,Female,60+,City Road,Minor
+Car,Evening,Female,18-25,Highway,Moderate
+Bus,Morning,Male,41-60,Junction,Minor
+Bus,Evening,Male,60+,City Road,Minor
+Car,Afternoon,Male,18-25,Highway,Minor
+Truck,Morning,Male,41-60,Junction,Minor
+Bus,Afternoon,Male,18-25,City Road,Minor
+Bus,Afternoon,Male,18-25,City Road,Minor
+Bus,Afternoon,Male,60+,Highway,Severe
+Bike,Night,Male,18-25,City Road,Severe
+Car,Night,Female,18-25,Junction,Minor
+Car,Morning,Female,26-40,City Road,Minor
+Truck,Morning,Female,18-25,Highway,Minor
+Truck,Night,Male,41-60,Highway,Severe
+Truck,Morning,Male,26-40,City Road,Minor
+Bus,Morning,Female,18-25,Highway,Severe
+Bike,Evening,Male,26-40,Junction,Moderate
+Bus,Afternoon,Female,41-60,City Road,Moderate
+Car,Night,Female,18-25,Highway,Severe
+Bus,Night,Male,60+,City Road,Minor
+Bike,Evening,Female,26-40,City Road,Minor
+Bike,Afternoon,Male,41-60,Junction,Moderate
+Bus,Night,Female,41-60,Highway,Severe
+Bus,Evening,Male,18-25,Highway,Severe
+Bike,Afternoon,Male,41-60,City Road,Minor
+Truck,Evening,Male,18-25,Junction,Minor
+Bike,Afternoon,Female,18-25,City Road,Minor
+Car,Afternoon,Male,41-60,City Road,Minor
+Car,Evening,Female,41-60,Highway,Moderate
+Truck,Night,Female,26-40,Highway,Severe
+Car,Afternoon,Male,18-25,Junction,Minor
+Bus,Night,Female,26-40,Junction,Moderate
+Truck,Evening,Female,18-25,Highway,Minor
+Bike,Afternoon,Female,41-60,City Road,Minor
+Bus,Morning,Female,41-60,Highway,Severe
+Truck,Morning,Male,41-60,Highway,Minor
+Car,Morning,Female,60+,Highway,Minor
+Truck,Morning,Male,26-40,Junction,Minor
+Bike,Morning,Male,41-60,Junction,Minor
+Truck,Morning,Female,18-25,Highway,Minor
+Bike,Night,Female,41-60,Highway,Moderate
+Bike,Morning,Female,60+,Junction,Moderate
+Bus,Morning,Male,41-60,Junction,Minor
+Truck,Morning,Female,41-60,Highway,Minor
+Car,Afternoon,Male,41-60,City Road,Minor
+Car,Evening,Male,41-60,Junction,Moderate
+Bike,Evening,Female,41-60,City Road,Minor
+Truck,Afternoon,Female,18-25,Junction,Minor
+Truck,Afternoon,Male,60+,Highway,Minor
+Car,Morning,Male,26-40,Junction,Minor
+Truck,Evening,Male,26-40,Junction,Minor
+Car,Morning,Female,26-40,City Road,Minor
